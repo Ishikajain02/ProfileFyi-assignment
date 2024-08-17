@@ -5,7 +5,7 @@ import Body from './Body'
 
 const Main = () => {
   return (
-    <div className='flex flex-col'>
+    <div className='flex flex-col items-center  min-w-min min-h-min'>
         <Nav/>
         <Sidebar/>
         
