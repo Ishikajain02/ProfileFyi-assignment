@@ -8,7 +8,7 @@ const Body = () => {
     const [products,setproducts]=useState([]);
     const dispatch = useDispatch();
     async function fn(){
-        const products=await fetch("https://dummyjson.com/products/category/mens-shoes");
+        const products=await fetch("https://dummyjson.com/products");
         const data=await products.json();
         setproducts(data.products);
     }
