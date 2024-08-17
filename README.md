@@ -38,7 +38,8 @@ The application will feature a product listing page showcasing various products 
     
 ![Screenshot 2024-08-18 011655](https://github.com/user-attachments/assets/51f9d756-1c9f-4de3-9e67-fe57b2cc680c)
 
-![demo](https://github.com/user-attachments/assets/fe2d8ff0-f55d-43a9-acd7-f95402c2f01a)
+![Screenshot 2024-08-18 020228](https://github.com/user-attachments/assets/06e4ab78-6126-4d69-8eee-2299a946236f)
+
 
 # Technical Specifications:
 + Frontend Framework: ReactJS 
