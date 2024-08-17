@@ -29,7 +29,8 @@ The application will feature a product listing page showcasing various products 
         + Product price
         + Quantity selector (up/down buttons or input field) to adjust the amount of each item.
           
-![demo](https://github.com/user-attachments/assets/ef7edf1c-8211-4160-ba6e-f8562e937727)
+![demo](https://github.com/user-attachments/assets/8309a10f-d095-4320-9520-c42a5cf7325b)
+
 
 # Cart summary section:
   + Subtotal: Calculate the total cost of all items in the cart based on their quantity and price.
